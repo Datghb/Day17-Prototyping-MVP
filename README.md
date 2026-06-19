@@ -6,7 +6,7 @@
 | Trường | Nội dung |
 |---|---|
 | Mã học viên | Day17-FlowLearn |
-| Họ tên | FlowLearn Team Member |  Nguyễn Thành Đạt(2A202600944), Nguyễn Đăng Khương(2A202600584)
+| Họ tên: Nguyễn Thành Đạt(2A202600944), Nguyễn Đăng Khương(2A202600584) | FlowLearn Team Member |  
 | Dự án đang làm | FlowLearn |
 | Vai trò trong dự án | Frontend, product workflow, AI-assisted writing feedback validation |
 
